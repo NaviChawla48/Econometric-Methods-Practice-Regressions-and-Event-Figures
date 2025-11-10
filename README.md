@@ -1,0 +1,1 @@
+I used data given to be my director for my master's program to practice econometric methods. Using data from Penn World Table (data on GDP, employment, and output) and from Nunn & Qian (historical panel data on Columbian Exchange) I explore differences in output per worker, trade shocks, and long-run development dynamics.
